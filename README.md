@@ -1,10 +1,9 @@
 # Simplest Conformal Prediction
 
-A minimal, **builder‑first implementation of conformal prediction** — designed to make reliability guardrails in AI systems accessible, transparent, and easy to extend.
+Minimal, **builder‑first implementation of conformal prediction** — designed to make reliability guardrails in AI systems accessible, transparent, and easy to extend.
 
 ## ✨ Why This Repo Exists
-Conformal prediction is a mathematically rigorous framework pioneered by Vladimir Vovk for quantifying uncertainty in machine learning.  
-This repo distills the concept down to its **simplest working form**, so practitioners and recruiters alike can see:
+Conformal prediction is a mathematically rigorous framework pioneered by Vladimir Vovk for quantifying uncertainty in machine learning. This repo distills the concept down to its **simplest working form**, so practitioners and recruiters alike can see:
 - How uncertainty sets are constructed  
 - Why conformal prediction matters for **Responsible AI**  
 - How reliability can be embedded into everyday ML workflows  
