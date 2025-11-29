@@ -21,7 +21,7 @@ This repo distills the concept down to its **simplest working form**, so practit
 - **Forecasting & Time Series** — confidence sets for future values  
 
 ## 🧭 Intellectual Lineage
-This project extends the lineage of **Vladimir Vovk’s conformal prediction** into modern Responsible AI practice, and the pragmatic instruction of my teacher **Valeriy Monokhin**, a leading promoter of conformal prediction in applied forecasting and time series. It demonstrates how reliability can be staged as a **portfolio artifact** — proof that engineering maturity and safety can coexist.  
+This project extends the lineage of **Vladimir Vovk’s conformal prediction** into modern Responsible AI practice, and the pragmatic instruction of my teacher **Valeriy Monokhin**, a leading promoter of conformal prediction in applied forecasting and time series (https://github.com/valeman/awesome-conformal-prediction). It demonstrates how reliability can be staged as a **portfolio artifact** — proof that engineering maturity and safety can coexist.  
 
 
 
