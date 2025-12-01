@@ -12,7 +12,6 @@ Conformal prediction is a mathematically rigorous framework pioneered by Vladimi
 - **Minimal code footprint** — clear, readable Python implementation  
 - **Step‑by‑step walkthroughs** — from data split to prediction sets  
 - **Extensible design** — easy to adapt for classification, regression, or time series  
-- **Signal‑dense documentation** — recruiter‑friendly framing of technical rigor  
 
 ## 🌐 Applications
 - **AI Safety & Reliability** — guardrails for high‑stakes predictions  
